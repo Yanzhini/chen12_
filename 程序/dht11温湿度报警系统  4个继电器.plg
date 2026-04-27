@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\1 单片机\1别人的资料\0 2 014要发给别人的毕业设计资料\05 DHT11温湿度检测 发送资料\#  4个负载\# 4个负载 DHT11温湿度4个继电器 1602\程序\dht11温湿度报警系统  4个继电器.uvproj
+Project File Date:  12/07/2024
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling dht11温湿度报警系统  4个继电器.c...
+compiling dht11温湿度报警系统  4个继电器 - 副本.c...
+dht11温湿度报警系统  4个继电器 - 副本.c(1): error C318: can't open file 'dht11温湿度报警系统  4个继电器 - 副本.c'
+Target not created
+Build target 'Target 1'
+linking...
+Program Size: data=24.0 xdata=0 code=1167
+creating hex file from "dht11温湿度报警系统  4个继电器"...
+"dht11温湿度报警系统  4个继电器" - 0 Error(s), 0 Warning(s).
